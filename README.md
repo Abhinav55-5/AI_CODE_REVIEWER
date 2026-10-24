@@ -86,8 +86,7 @@ Make sure you have installed:
 ### 1. Clone the repository
 
 ```bash
-git clone (https://github.com/Abhinav55-5/AI_CODE_REVIEWER.git)
-cd AI-CODE-REVIEWER
+git clone https://github.com/Abhinav55-5/AI_CODE_REVIEWER.git
+cd AI_CODE_REVIEWER
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual repository
